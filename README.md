@@ -1,11 +1,11 @@
 # Ant-to-Maven-AI-Converter
 
 
-##Overview
+## Overview
 
 This project focuses on automating the conversion of Apache ANT build configurations to Apache Maven using AI-driven techniques. Given the complexity of manually migrating legacy ANT-based builds to Maven, this tool leverages AI to analyze, interpret, and generate an equivalent Maven pom.xml file, reducing human effort and minimizing errors.
 
-##Features
+##  Features
 
 Automated ANT to MAVEN Conversion: Parses build.xml and generates a structured pom.xml file.
 
@@ -19,7 +19,7 @@ Error Handling & Logging: Provides detailed logs to help debug conversion issues
 
 AI-Powered Recommendations: Uses AI to enhance accuracy and suggest optimizations.
 
-##How It Works
+## How It Works
 
 Input the ANT build file (build.xml) into the tool.
 
